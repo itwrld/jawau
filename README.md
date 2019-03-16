@@ -18,7 +18,7 @@ If you found the addon you were searching for, you need to press the Install but
 
 If you click on My Addons section, you will see your installed addons, that you can update or remove if needed. When you remove an addon, it will disappear from your installed addons. If you remove addons, all the folders and files in your World of Warcraft addon folder that belongs to the addon will be removed also.
 
-If you want to check for updates, just click on the same My Addons section and the program will automatically check for new updates. That easy! :)
+If you want to check for updates, just click on the same My Addons section or the Refresh button and the program will automatically check for new updates. That easy! :)
 
 In Settings section you also have three useful options: Backup, Restore and Reset. They are really useful if you like to backup/restore or reset your current configuration.
 
