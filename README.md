@@ -21,3 +21,10 @@ If you want to check for updates, just click on the same My Addons section and t
 In Settings section you also have three useful options: Backup, Restore and Reset. They are really useful if you like to backup/restore or reset your current configuration.
 
 That's all, I don't think you guys will have problems to use the application, but if you find bugs, report them using the email below.
+
+Contact:
+Ionut Trandafir, Email: trandafir.ionut[at]itwrld.com
+
+Credits:
+- Marian Calin (icon graphics)
+- Serge Terryn (parts of the html parsing code)
