@@ -30,3 +30,5 @@ Ionut Trandafir, Email: trandafir.ionut[at]itwrld.com
 Credits:
 - Marian Calin (icon graphics)
 - Serge Terryn (parts of the html parsing code)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/JohnnyUSA?locale.x=en_US)
