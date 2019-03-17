@@ -25,6 +25,8 @@ In Settings section you also have three useful options: Backup, Restore and Rese
 
 ### Prerequisites
 
+To run this software you need to be on Windows 7/8.1/10 64bit OS.
+
 To install this software you only need some ZIP unpacking tool like,
 
 ```
