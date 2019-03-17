@@ -78,5 +78,5 @@ This project is licensed under the  GNU Version 3 - see the [LICENSE.md](LICENSE
 
 ## Support for the project
 
-If you like JAWAU and found it useful, and you think i deserve a cookie, use the donate button ;)
+If you like JAWAU and found it useful, and you think i deserve a cookie, use the donate button ->
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/JohnnyUSA?locale.x=en_US)
