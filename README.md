@@ -77,6 +77,7 @@ This project is licensed under the  GNU Version 3 - see the [LICENSE.md](LICENSE
 
 * Marian Calin (icon graphics)
 * Serge Terryn (parts of the html parsing code)
+* Alex Turkin (busy indicator code)
 
 ## Support for the project
 
